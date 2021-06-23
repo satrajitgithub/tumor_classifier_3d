@@ -1,0 +1,16 @@
+*.nii.gz
+*.nii
+.idea
+*.zip
+.ipynb_checkpoints
+*.pkl
+*.hdf5
+*.log
+*.h5
+*.ipynb
+*.pyc
+*.json
+*.hdr
+*.img
+~*
+temp/
